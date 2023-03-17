@@ -27,4 +27,4 @@ Utilizei a linguagem Python pela abrangência bem maior, podemos utilizar para d
  - Datetime
  - Regex
  - Calendar
- - pandasql 
+ - Pandasql 
