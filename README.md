@@ -18,7 +18,7 @@ Embora apresentasse muitas "missing values", não houve a necessidade de se excl
 5. Filtrando os dados visando responder as perguntas do desafio
 
 # Linguagem utilizada 
-Utilizei a linguagem Python pela abrangência bem maior, podemos utilizar para desenvolvimento web, análise de dados, ciência de dados, scripts de automação, entre outras áreas
+Utilizei a linguagem Python pela abrangência, podemos utilizar para desenvolvimento web, análise de dados, ciência de dados, scripts de automação, entre outras áreas
 
 # Bibliotecas
  - Pandas 
@@ -28,3 +28,6 @@ Utilizei a linguagem Python pela abrangência bem maior, podemos utilizar para d
  - Regex
  - Calendar
  - Pandasql 
+
+# Instalação
+O projeto foi criado no https://colab.research.google.com/ pode ser rodado em qualquer outro IDE, como Pycharm, VScode ou Jupyter Notebooks. Seu codigo pode ser também utilizado em Power BI e Tableau.
